@@ -21,5 +21,5 @@ the development of the Nebula Planner, an interactive tool for course planning (
 to be so much more); and the [UTD Survival Guide](https://github.com/UTDNebula/survival-guide),
 a college survival guide to answer the burning questions of UTD students.
 
-I also formerly create workshops and other projects for the Artificial Intelligence Society
-at UTD.
+I also formerly created workshops and other projects for the
+[Artificial Intelligence Society](https://aisutd.org) at UTD.
