@@ -7,7 +7,7 @@ research in the field long-term.
 
 ### 💻 I build things.
 
-I was the founder of [Nebula Labs](https://utdnebula.com), an orgainzation dedicated
+I was the founder of [Nebula Labs](https://utdnebula.com), an organization dedicated
 to building tools to enhance students' educational experiences. I grew a team of
 four full-stack developers to a communiy of over thirty product designers, UI/UX
 designers, and engineers of all types spanning four product teams. Nebula Labs'
