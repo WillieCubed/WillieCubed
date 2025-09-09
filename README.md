@@ -1,20 +1,22 @@
-Hi, I'm Willie Chalmers III, a computer science graduate from The University of
-Texas at Dallas. In addition to creating projects to grow my technical skills,
-I'm deeply invested in the field of artificial intelligence and desire to do
-research in the field long-term.
+Hi, I'm Willie.
 
-## What Do I Do?
+## What am I up to?
 
-### 💻 I build things.
+I'm working on a special little project. Of course, it involves AI. It's pretty
+interesting.
 
-I was the founder of [Nebula Labs](https://utdnebula.com), an organization dedicated
+## Where have I been?
+
+### Building orgs
+
+Back in college, I founded [Nebula Labs](https://utdnebula.com), an organization dedicated
 to building tools to enhance students' educational experiences. I grew a team of
 four full-stack developers to a communiy of over thirty product designers, UI/UX
 designers, and engineers of all types spanning four product teams. Nebula Labs'
 first and flagship product is the [Nebula Planner](https://planner.utdnebula.com),
 a drag-and-drop degree plan tool that validates graduation requirements.
 
-Previously, I was a director of engineering for the UTD student chapter of the
+I was also the director of engineering for the UT Dallas student chapter of the
 [Association for Computing Machinery](https://acmutd.co). In that role, I led the
 creation and deployment of [HackPortal](https://github.com/acmutd/hackportal), an ambitious
 open-source hackathon management system and user experience for the largest hackathon
@@ -27,7 +29,7 @@ There, I presented [workshops](https://github.com/aisutd/god-pong) and oversaw A
 mentorship program for students passionate in artificial intelligence. I also redesigned
 and rebuilt the website using Next.js and rolled out Google Workspace to 30+ team members.
 
-### 📄 I conduct research.
+### Conducting research
 
 I was a research assistant in the Intelligent Robotics and Vision Lab at UT Dallas,
 working on a project to build a system that could learn discrete semantic concepts
@@ -37,8 +39,3 @@ I was an undergraduate researcher for Polycraft World in the Center for
 Engineering Innovation at UT Dallas as part of a government-funded grant focusing on
 building agents that can adapt to open-world environments. (I developed tools for a
 Minecraft mod for AI.)
-
-In the meantime, I've been busy reimplementing some research papers. My code isn't
-very functional (since I haven't taken any formal machine learning class yet), but
-my PI says I'm industrious and knows I can figure it out with enough time (and the
-right questions).
